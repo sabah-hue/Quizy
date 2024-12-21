@@ -1,0 +1,105 @@
+{
+    "questions": [
+      {
+        "title": "What does HTML stand for?",
+        "answers": [
+          "Hyper Text Markup Language",
+          "Home Tool Markup Language",
+          "Hyperlinks Text Mark Language",
+          "Hyper Tool Multi Language"
+        ],
+        "rightAnswer": "Hyper Text Markup Language"
+      },
+      {
+        "title": "Which CSS property changes text color?",
+        "answers": [
+          "color",
+          "text-color",
+          "font-color",
+          "text-style"
+        ],
+        "rightAnswer": "color"
+      },
+      {
+        "title": "What is the correct CSS syntax for making all paragraphs green?",
+        "answers": [
+          "p {color: green;}",
+          "p {text-color: green;}",
+          "@p {color: green;}",
+          "p:all {color: green;}"
+        ],
+        "rightAnswer": "p {color: green;}"
+      },
+      {
+        "title": "Which property is used to change the font of an element?",
+        "answers": [
+          "font-family",
+          "font-style",
+          "font-type",
+          "text-family"
+        ],
+        "rightAnswer": "font-family"
+      },
+      {
+        "title": "What is the default value of position property?",
+        "answers": [
+          "static",
+          "relative",
+          "fixed",
+          "absolute"
+        ],
+        "rightAnswer": "static"
+      },
+      {
+        "title": "How do you make a list without bullets?",
+        "answers": [
+          "list-style-type: none",
+          "list: none",
+          "bulletpoints: none",
+          "list-type: no-bullet"
+        ],
+        "rightAnswer": "list-style-type: none"
+      },
+      {
+        "title": "Which CSS property controls text size?",
+        "answers": [
+          "font-size",
+          "text-size",
+          "text-style",
+          "font-style"
+        ],
+        "rightAnswer": "font-size"
+      },
+      {
+        "title": "What is the correct way to apply CSS externally?",
+        "answers": [
+          "link rel='stylesheet' href='style.css'",
+          "style src='style.css'",
+          "stylesheet>style.css",
+          "css>external.style.css"
+        ],
+        "rightAnswer": "link rel='stylesheet' href='style.css'"
+      },
+      {
+        "title": "Which property is used to create space between elements?",
+        "answers": [
+          "margin",
+          "spacing",
+          "padding",
+          "border"
+        ],
+        "rightAnswer": "margin"
+      },
+      {
+        "title": "How do you center align text?",
+        "answers": [
+          "text-align: center",
+          "align: center",
+          "center-text: true",
+          "text: center"
+        ],
+        "rightAnswer": "text-align: center"
+      }
+    ]
+  }
+  
